@@ -1,0 +1,6 @@
+clean: fvm flutter pub run build_runner clean
+build: fvm flutter pub run build_runner build --delete-conflicting-outputs > build_log.txt
+watch: fvm flutter pub run build_runner watch --delete-conflicting-outputs
+rebuild:
+  - $clean
+  - $build

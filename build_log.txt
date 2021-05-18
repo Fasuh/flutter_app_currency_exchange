@@ -1,0 +1,49 @@
+fvm: running version "stable"
+
+[INFO] Generating build script...
+[INFO] Generating build script completed, took 359ms
+
+[INFO] Precompiling build script......
+[INFO] Precompiling build script... completed, took 4.6s
+
+[INFO] Initializing inputs
+[INFO] Building new asset graph...
+[INFO] Building new asset graph completed, took 533ms
+
+[INFO] Checking for unexpected pre-existing outputs....
+[INFO] Deleting 2 declared outputs which already existed on disk.
+[INFO] Checking for unexpected pre-existing outputs. completed, took 3ms
+
+[INFO] Running build...
+[INFO] 1.1s elapsed, 75/88 actions completed.
+[INFO] 2.1s elapsed, 85/88 actions completed.
+[INFO] 3.3s elapsed, 85/88 actions completed.
+[INFO] 8.8s elapsed, 85/88 actions completed.
+[INFO] Running build completed, took 9.1s
+
+[INFO] Caching finalized dependency graph...
+[INFO] Caching finalized dependency graph completed, took 37ms
+
+[INFO] Succeeded after 9.1s with 4 outputs (178 actions)
+
+fvm: running version "stable"
+
+[INFO] Generating build script...
+[INFO] Generating build script completed, took 360ms
+
+[INFO] Initializing inputs
+[INFO] Reading cached asset graph...
+[INFO] Reading cached asset graph completed, took 49ms
+
+[INFO] Checking for updates since last build...
+[INFO] Checking for updates since last build completed, took 469ms
+
+[INFO] Running build...
+[INFO] 1.6s elapsed, 1/2 actions completed.
+[INFO] Running build completed, took 1.9s
+
+[INFO] Caching finalized dependency graph...
+[INFO] Caching finalized dependency graph completed, took 28ms
+
+[INFO] Succeeded after 1.9s with 2 outputs (3 actions)
+

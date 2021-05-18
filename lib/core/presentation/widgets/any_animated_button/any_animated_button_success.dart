@@ -1,0 +1,14 @@
+import 'package:flutter/material.dart';
+
+class AnyAnimatedButtonSuccess extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.all(8.0),
+      child: Icon(
+        Icons.check,
+        color: Colors.white,
+      ),
+    );
+  }
+}

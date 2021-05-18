@@ -1,0 +1,17 @@
+{
+  "defaultError": "There was an error",
+  "authorName": "Bartłomiej Szmajda",
+  "authorClass": "Systemy Urządzeń Mobilnych",
+  "authorIndexNumber": "97363",
+  "polishCurrency": "PLN",
+  "resultText": "Wynik:",
+  "currencyCalculatorName": "Kalkulator kursu walut",
+  "appThemeName": "Dowolny tematyczny",
+  "none": "Brak",
+  "settingsTitle": "Ustawienia",
+  "settingsFontSize": "Wielkość liter",
+  "settingsLetterSpacing": "Odległość między literami",
+  "settingsLinesSpacing": "Odległość między liniami",
+  "settingsTheme": "Motyw",
+  "appThemeDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a finibus quam. In mauris mi, dapibus vel lacus sit amet, iaculis scelerisque ipsum. Curabitur eget leo ac nibh condimentum porttitor. Nunc ut orci interdum, fermentum sem suscipit, vestibulum sem. Nam vehicula orci nisl, in mattis lectus pellentesque semper. Nullam euismod felis sed velit congue, id tempus tortor interdum. Sed mauris sapien, varius in massa a, malesuada finibus dui. Ut quis neque turpis. Mauris semper tincidunt nisi eget interdum. Aenean urna erat, commodo non nisl malesuada, molestie rutrum ante. Mauris id leo at elit pretium hendrerit. Vivamus sollicitudin lobortis nisl, a eleifend libero mattis in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque non tellus et enim viverra bibendum. Suspendisse convallis lacinia odio eu vulputate."
+}
